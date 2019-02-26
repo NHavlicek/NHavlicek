@@ -1,4 +1,5 @@
 There is a man named Nick. Nick is bad at linux. Linux hates Nick as well. This is the end of the story
 With the help of others Nick is learning more about linux and version control. It took a while but we had fun. 
 Learning different things is hard sometimes. Nick would like to take a class on learning how to learn. But he questions
-how the professor learned how to learn to learn. 
+how the professor learned how to learn to learn.
+Roxin is sorry for editing the repository before Nick has done. Roxin felt regret.
